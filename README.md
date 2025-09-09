@@ -1,2 +1,2 @@
 # isa-be
-Projektni rad napravljen kao backend deo ispita Internet softverske arhitekture.
+Projektni rad napravljen kao backend deo ispita Internet softverske arhitekture u frameworku Spring Boot.
